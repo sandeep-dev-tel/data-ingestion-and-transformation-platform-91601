@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/data-ingestion-and-transformation-platform-91601/etl_backend_api"
+}
